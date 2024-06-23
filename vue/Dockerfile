@@ -1,4 +1,4 @@
-FROM node:20.10-alpine3.18
+FROM node:20-alpine3.19
 
 ENV APP_DIR="/app"
 
